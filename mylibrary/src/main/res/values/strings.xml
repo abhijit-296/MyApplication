@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Library</string>
+    <integer name="app_value">@integer/app_value</integer>
 </resources>
