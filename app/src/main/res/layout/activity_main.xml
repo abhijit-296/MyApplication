@@ -13,7 +13,9 @@
         android:text="Hello World!"
          />
     <Button
-        android:text="Press Here only one"
+
+        android:text="Press Here only one only"
+
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
